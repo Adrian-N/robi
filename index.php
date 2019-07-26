@@ -3,7 +3,7 @@
 /**
  * Project: Robi - Management tool to track software versions across different environments.
  * License: Non-Profit Open Software License 3.0 (NPOSL-3.0)
- * Version: V1.01
+ * Version: V1.02
  * Author: Adrian Nowak | adriannowak.net
  * Notes: Protect admin folder with htaccess - http://www.htaccesstools.com/articles/password-protection/
  */
@@ -71,7 +71,7 @@ $mainNav= "<a href='admin/asset.php'>ADMIN</a>"
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0" />
 		
-		<link rel="stylesheet" type="text/css" href="admin/theme/main.css">
+		<link rel="stylesheet" type="text/css" href="theme/main.css">
 		<title><?php echo $siteTitle;?></title>
 	</head>
 	<body>
